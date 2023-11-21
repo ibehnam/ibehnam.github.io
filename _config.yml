@@ -4,7 +4,7 @@ email: behnam.mhmd@gmail.com
 remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "<--" # customize text for homepage link in post layout
+  back_home_text: "go back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
   footer_text: "© 2023 Behnam Mohammadi" # customize footer text
