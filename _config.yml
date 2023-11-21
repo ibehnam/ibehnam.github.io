@@ -1,7 +1,8 @@
 title: Behnam Mohammadi
 email: behnam.mhmd@gmail.com
 
-remote_theme: riggraz/no-style-please
+# remote_theme: riggraz/no-style-please
+rempte_theme: piharpi/jekyll-klise
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "go back" # customize text for homepage link in post layout
