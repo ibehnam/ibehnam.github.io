@@ -1,1 +1,1 @@
-In Calculus, we are taught that function $f$ is a _mapping_ from its domain $X$ to its range $Y$.
+In Calculus, we are taught that function $f: X →Y$ is a _mapping_ from its domain $X$ to its range $Y$. As far as I know, the _type_ of $X$ and $Y$ in math is always some kind of numbers (e.g., $\mathbb{N}, \mathbb{Z}, \mathbb{R}, \mathbb{C}$).
